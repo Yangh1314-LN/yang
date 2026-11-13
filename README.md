@@ -1,4 +1,4 @@
-# yang
+<img width="1272" height="1286" alt="image" src="https://github.com/user-attachments/assets/a4d3dc71-3bf2-47f6-b18d-be58c543cad8" /># yang
 # 球墨铸铁金相智能分析工具 (Metallographic Analysis Tool)
 
 本项目是一个基于计算机视觉（Computer Vision）和 Python 的球墨铸铁金相自动分析桌面软件。旨在替代传统人工显微镜下繁琐的目测与计数工作，并严格遵循国家标准 **GB/T 9441-2021** 进行球化率评级。
@@ -31,4 +31,4 @@
 2. 运行 `python 金相分析工具.py` 即可启动 GUI 界面。
 *(如果提供了 .exe 可执行文件，可以在 Release 里放一个压缩包，说明直接下载解压即可使用)*
 
-
+#MIT License
